@@ -1,0 +1,12 @@
+/docs/
+/inspo/
+*.md
+*.drawio
+/.impeccable/
+.DS_Store
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+*.tsbuildinfo
